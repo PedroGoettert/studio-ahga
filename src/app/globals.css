@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-gray: #4C4942;
+  --color-yellow: #F2DC4D;
+  --color-orange: #C2860D;
+
+  --backgroud-home: url('../assets/background-home.jpeg');
+}
+
+.backgroud__home {
+  background-image: url('../assets/background-home.jpeg');
+}
