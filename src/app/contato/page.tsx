@@ -48,7 +48,7 @@ export default function Contact() {
             <p className="font-text font-bold text-base">Pronto para transformar seu projeto em realidade?</p>
             <p>Aqui desenvolvemos um projeto único, feito sob medida para você</p>
 
-            <a href={'#'} className="flex  gap-2 items-center p-4 border border-solid border-black">
+            <a href={'https://api.whatsapp.com/send/?phone=5551991917097'} className="flex gap-2 items-center p-4 border border-solid border-black">
               <FaWhatsapp size={28} />
               <span>Comece seu projeto agora!</span>
             </a>
