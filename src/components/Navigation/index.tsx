@@ -8,7 +8,7 @@ export function Navigation() {
     <header className="flex justify-center items-center absolute translate-x-[50%] right-[50%] pt-8">
 
       <nav className="flex gap-8 bg-gray px-8 py-1 rounded-[15px]">
-        <button type="button" className="h-8 bg-red-500">
+        <button type="button" className="h-8">
           <Image src={logo} alt="logo" className="h-auto min-w-8 max-h-8 w-auto" />
         </button>
 
@@ -48,19 +48,6 @@ export function Navigation() {
         </ul>
 
       </nav>
-
-      {/* <nav className="flex justify-between gap-8 items-center bg-gray px-8 py-1 rounded-[18px]">
-        <button type="button">
-          <Image
-            src={logo}
-            alt="logo"
-            className="h-8 w-auto justify-self-start"
-          />
-        </button>
-
-
-       
-      </nav> */}
     </header >
   );
 }
