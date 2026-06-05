@@ -12,7 +12,7 @@ import {
 
 export default function Contato() {
 	return (
-		<main className="min-h-screen bg-gradient-to-b from-[#4c4942] to-[#2a2824] text-foreground">
+		<main className="min-h-screen bg-gradient-to-b from-[#d9d6d1] to-[#c0bdb8] text-foreground">
 			<section className="mx-auto max-w-6xl px-6 py-16 lg:px-8 lg:py-24">
 				<div className="text-center">
 					<p className="font-text text-sm uppercase tracking-[0.35em] text-muted-foreground">
