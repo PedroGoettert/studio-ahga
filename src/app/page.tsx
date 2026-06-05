@@ -1,5 +1,5 @@
-import Image from "next/image";
 import { SimpleFooter } from "@/components/Footer/simple";
+import Image from "next/image";
 import backgroud_center from "../assets/backgroud-center.png";
 
 export default function Home() {

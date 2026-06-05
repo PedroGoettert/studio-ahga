@@ -2,12 +2,12 @@
 
 import Link from "next/link";
 import {
+	FaEnvelope,
 	FaFacebook,
-	FaYoutube,
-	FaWhatsapp,
 	FaInstagram,
 	FaPhone,
-	FaEnvelope,
+	FaWhatsapp,
+	FaYoutube,
 } from "react-icons/fa";
 
 export function Footer() {
@@ -23,8 +23,8 @@ export function Footer() {
 							Studio Ahga
 						</h3>
 						<p className="font-text text-xs sm:text-sm leading-6 sm:leading-7 text-gray-300">
-							Transformamos espaços em ambientes únicos que refletem identidade e
-							valores. Arquitetura com alma.
+							Transformamos espaços em ambientes únicos que refletem identidade
+							e valores. Arquitetura com alma.
 						</p>
 					</div>
 

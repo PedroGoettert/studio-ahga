@@ -12,8 +12,8 @@ export default function Studio() {
 						O que fazemos
 					</h1>
 					<p className="mx-auto mt-4 sm:mt-6 max-w-3xl font-text text-sm sm:text-base lg:text-lg leading-7 sm:leading-8 text-muted-foreground">
-						Criamos projetos únicos que transformam espaços em ambientes que refletem
-						a identidade e os valores de nossos clientes.
+						Criamos projetos únicos que transformam espaços em ambientes que
+						refletem a identidade e os valores de nossos clientes.
 					</p>
 				</div>
 
@@ -31,8 +31,8 @@ export default function Studio() {
 								comércio, do seu condomínio.
 							</p>
 							<p className="mt-3 sm:mt-4 font-text text-sm sm:text-base leading-7 sm:leading-8 text-muted-foreground">
-								Seja para novas construções, reformas indispensáveis ou atualizações
-								que renovam o ambiente.
+								Seja para novas construções, reformas indispensáveis ou
+								atualizações que renovam o ambiente.
 							</p>
 						</div>
 
@@ -42,8 +42,8 @@ export default function Studio() {
 									🏠 Residencial
 								</h3>
 								<p className="mt-2 sm:mt-3 font-text text-xs sm:text-sm leading-6 sm:leading-7 text-muted-foreground">
-									Projetos de casas, apartamentos e condomínios com foco em conforto,
-									funcionalidade e estética personalizada.
+									Projetos de casas, apartamentos e condomínios com foco em
+									conforto, funcionalidade e estética personalizada.
 								</p>
 							</div>
 
@@ -52,8 +52,8 @@ export default function Studio() {
 									🏢 Comercial
 								</h3>
 								<p className="mt-2 sm:mt-3 font-text text-xs sm:text-sm leading-6 sm:leading-7 text-muted-foreground">
-									Espaços comerciais, cafés, estúdios e lojas que refletem a marca
-									e atraem clientes.
+									Espaços comerciais, cafés, estúdios e lojas que refletem a
+									marca e atraem clientes.
 								</p>
 							</div>
 
@@ -62,8 +62,8 @@ export default function Studio() {
 									🔨 Reformas
 								</h3>
 								<p className="mt-2 sm:mt-3 font-text text-xs sm:text-sm leading-6 sm:leading-7 text-muted-foreground">
-									Renovações que modernizam e revitalizam ambientes existentes com
-									novo propósito.
+									Renovações que modernizam e revitalizam ambientes existentes
+									com novo propósito.
 								</p>
 							</div>
 						</div>
@@ -79,14 +79,14 @@ export default function Studio() {
 							Paixão pela arquitetura e compromisso com excelência
 						</h2>
 						<p className="mt-6 sm:mt-8 font-text text-sm sm:text-base leading-7 sm:leading-8 text-muted-foreground">
-							Cada detalhe é cuidadosamente considerado, desde a concepção inicial
-							até a conclusão do projeto, garantindo que cada espaço seja funcional,
-							estético e sustentável.
+							Cada detalhe é cuidadosamente considerado, desde a concepção
+							inicial até a conclusão do projeto, garantindo que cada espaço
+							seja funcional, estético e sustentável.
 						</p>
 						<p className="mt-4 sm:mt-6 font-text text-sm sm:text-base leading-7 sm:leading-8 text-muted-foreground">
 							Nosso objetivo é projetar ambientes que promovam bem-estar,
-							produtividade e satisfação, refletindo a identidade e os valores de
-							nossos clientes.
+							produtividade e satisfação, refletindo a identidade e os valores
+							de nossos clientes.
 						</p>
 					</div>
 				</div>

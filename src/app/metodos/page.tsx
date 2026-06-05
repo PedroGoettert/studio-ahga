@@ -77,7 +77,9 @@ export default function Metodos() {
 							className="rounded-[16px] sm:rounded-[28px] border border-border bg-card/80 p-4 sm:p-8 shadow-sm backdrop-blur-md"
 						>
 							<div className="mb-3 sm:mb-4 flex h-10 sm:h-12 w-10 sm:w-12 items-center justify-center rounded-xl sm:rounded-2xl bg-primary text-primary-foreground">
-								<span className="font-text text-base sm:text-lg font-bold">{index + 1}</span>
+								<span className="font-text text-base sm:text-lg font-bold">
+									{index + 1}
+								</span>
 							</div>
 							<h2 className="font-title text-base sm:text-xl font-semibold text-foreground">
 								{step.title}
