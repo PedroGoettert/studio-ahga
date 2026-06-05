@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Footer } from "@/components/Footer";
+import { SimpleFooter } from "@/components/Footer/simple";
 import backgroud_center from "../assets/backgroud-center.png";
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
 					className="max-w-96 w-full h-auto object-cover"
 				/>
 			</section>
-			<Footer />
+			<SimpleFooter />
 		</main>
 	);
 }
