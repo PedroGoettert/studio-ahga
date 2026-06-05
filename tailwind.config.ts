@@ -52,7 +52,7 @@ const config: Config = {
 				},
 			},
 			fontFamily: {
-				title: ["var(--font-aisling)"],
+				title: ["var(--font-century-gothic-bold)"],
 				text: ["var(--font-century-gothic)"],
 				text_bold: ["var(--font-century-gothic-bold)"],
 			},
